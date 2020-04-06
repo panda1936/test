@@ -1,4 +1,4 @@
-Lapin
+NUL
 test
 abc
 def
